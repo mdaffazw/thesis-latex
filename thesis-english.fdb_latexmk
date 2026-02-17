@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex thesis-english"] 1771353364.91367 "thesis-english.aux" "thesis-english.bbl" "thesis-english" 1771353368.37142 0
+["bibtex thesis-english"] 1771353364.91367 "thesis-english.aux" "thesis-english.bbl" "thesis-english" 1771353746.83646 0
   "./GayaUKM.bst" 1771353327 32476 a686fbfa4d6b5f194302d7de611d1fff ""
   "./refs.bib" 1771353327 2495 2e2641b80cd34f55c1b6558310d14105 ""
-  "thesis-english.aux" 1771353367 15612 e0d8d07014edabb1f9dcb3fa20775f3a "pdflatex"
+  "thesis-english.aux" 1771353745 15612 e0d8d07014edabb1f9dcb3fa20775f3a "pdflatex"
   (generated)
   "thesis-english.bbl"
   "thesis-english.blg"
   (rewritten before read)
-["pdflatex"] 1771353365.32059 "d:/Kerjaan-Dawe/thesis-latex/thesis-english.tex" "thesis-english.pdf" "thesis-english" 1771353368.37315 0
+["pdflatex"] 1771353743.94443 "d:/Kerjaan-Dawe/thesis-latex/thesis-english.tex" "thesis-english.pdf" "thesis-english" 1771353746.83807 0
   "220px-Golden-ratio-line.png" 1771353327 5258 75bbd25b3fc486ce7d8daf6a0c70145d ""
   "314px-Liber-abbaci-magliab-f124r.jpg" 1771353327 65353 80bcabe094607468e3a1f27132183cba ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1736607166 2914 fdbc4a54b9bc76f4551b5303f2737d33 ""
@@ -170,15 +170,15 @@
   "chap-fibonacci.tex" 1771353327 7009 6ef9d19a902046ed289181bd4bb17e51 ""
   "chap-goldenratio.tex" 1771353327 3588 1299e08ea46d45d506ac7720423ce5e2 ""
   "chap-intro.tex" 1771353327 6367 3931a9ba19a02e01713579ae1f035ed1 ""
-  "d:/Kerjaan-Dawe/thesis-latex/thesis-english.tex" 1771353327 2176 80329b87b14b8d4761028341abe4cfbf ""
+  "d:/Kerjaan-Dawe/thesis-latex/thesis-english.tex" 1771353743 2176 98cfd21d30c986bd3cec1658f8fe765a ""
   "green.png" 1771353327 67536 d8b2c2be6721a067daeb1c82a05e822c ""
   "symbols.tex" 1771353327 448 e14dff4915b712ab98eff1658a6fe45a ""
-  "thesis-english.aux" 1771353367 15612 e0d8d07014edabb1f9dcb3fa20775f3a "pdflatex"
+  "thesis-english.aux" 1771353745 15612 e0d8d07014edabb1f9dcb3fa20775f3a "pdflatex"
   "thesis-english.bbl" 1771353365 2483 ad2a7d2923860aec880fb6f14c691fbd "bibtex thesis-english"
-  "thesis-english.lof" 1771353367 634 3f9ea4f741a3147219a759e09750fe88 "pdflatex"
-  "thesis-english.lot" 1771353367 502 4bd05c80c13d8f996007d8e16854e001 "pdflatex"
-  "thesis-english.tex" 1771353327 2176 80329b87b14b8d4761028341abe4cfbf ""
-  "thesis-english.toc" 1771353367 2557 1b34a2dd96eed5b4e594dbc5211ae5de "pdflatex"
+  "thesis-english.lof" 1771353745 634 3f9ea4f741a3147219a759e09750fe88 "pdflatex"
+  "thesis-english.lot" 1771353745 502 4bd05c80c13d8f996007d8e16854e001 "pdflatex"
+  "thesis-english.tex" 1771353743 2176 98cfd21d30c986bd3cec1658f8fe765a ""
+  "thesis-english.toc" 1771353745 2557 1b34a2dd96eed5b4e594dbc5211ae5de "pdflatex"
   (generated)
   "thesis-english.aux"
   "thesis-english.lof"
