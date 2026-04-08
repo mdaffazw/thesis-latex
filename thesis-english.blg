@@ -6,44 +6,66 @@ The style file: GayaUKM.bst
 Reallocating 'name_of_file' (item size: 1) to 5 items.
 Database file #1: refs.bib
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
-You've used 8 entries,
+Warning--empty journal in ASEANstats2023
+ptr=1, stack=
+Ageing asean: Shifting demographic structure [infographic] 
+---the literal stack isn't empty for entry ASEANstats2023
+while executing---line 1598 of file GayaUKM.bst
+ptr=1, stack=
+19(4): 1229--1245
+---the literal stack isn't empty for entry Figee2022
+while executing---line 1598 of file GayaUKM.bst
+ptr=1, stack=
+12
+---the literal stack isn't empty for entry Grondhuis2021
+while executing---line 1598 of file GayaUKM.bst
+ptr=1, stack=
+2022
+---the literal stack isn't empty for entry Park2022
+while executing---line 1598 of file GayaUKM.bst
+ptr=1, stack=
+20(1)
+---the literal stack isn't empty for entry Sorensen2023
+while executing---line 1598 of file GayaUKM.bst
+You've used 18 entries,
             3080 wiz_defined-function locations,
-            673 strings with 6346 characters,
-and the built_in function-call counts, 4604 in all, are:
-= -- 381
-> -- 156
-< -- 2
-+ -- 65
-- -- 54
-* -- 274
-:= -- 765
-add.period$ -- 35
-call.type$ -- 8
-change.case$ -- 57
-chr.to.int$ -- 9
-cite$ -- 8
-duplicate$ -- 351
-empty$ -- 384
-format.name$ -- 62
-if$ -- 915
+            743 strings with 8863 characters,
+and the built_in function-call counts, 12959 in all, are:
+= -- 956
+> -- 784
+< -- 0
++ -- 306
+- -- 279
+* -- 951
+:= -- 2174
+add.period$ -- 71
+call.type$ -- 18
+change.case$ -- 172
+chr.to.int$ -- 19
+cite$ -- 19
+duplicate$ -- 884
+empty$ -- 881
+format.name$ -- 317
+if$ -- 2451
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 64
-newline$ -- 52
-num.names$ -- 32
-pop$ -- 140
+missing$ -- 200
+newline$ -- 99
+num.names$ -- 72
+pop$ -- 416
 preamble$ -- 1
-purify$ -- 46
+purify$ -- 154
 quote$ -- 0
-skip$ -- 135
+skip$ -- 313
 stack$ -- 0
-substring$ -- 210
-swap$ -- 164
-text.length$ -- 2
+substring$ -- 470
+swap$ -- 458
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 69
-warning$ -- 0
-while$ -- 43
+type$ -- 159
+warning$ -- 1
+while$ -- 93
 width$ -- 0
-write$ -- 118
+write$ -- 239
+(There were 5 error messages)

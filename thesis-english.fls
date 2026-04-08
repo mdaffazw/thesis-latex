@@ -312,40 +312,27 @@ INPUT .\chap-intro.tex
 INPUT .\chap-intro.tex
 INPUT .\chap-intro.tex
 INPUT chap-intro.tex
-INPUT C:\Program Files\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT .\chap-fibonacci.tex
+INPUT .\chap-fibonacci.tex
+INPUT .\chap-fibonacci.tex
+INPUT .\chap-fibonacci.tex
+INPUT chap-fibonacci.tex
 INPUT C:\Program Files\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\newtx\ntxsy.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\txsys.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\txex-bar.tfm
+INPUT .\314px-Liber-abbaci-magliab-f124r.jpg
+INPUT .\314px-Liber-abbaci-magliab-f124r.jpg
+INPUT .\314px-Liber-abbaci-magliab-f124r.jpg
+INPUT .\314px-Liber-abbaci-magliab-f124r.jpg
+INPUT .\314px-Liber-abbaci-magliab-f124r.jpg
+INPUT .\314px-Liber-abbaci-magliab-f124r.jpg
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
-INPUT C:\Program Files\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
-INPUT C:\Program Files\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\tex-gyre\ts1-qtmr.tfm
-INPUT .\green.png
-INPUT .\green.png
-INPUT .\green.png
-INPUT .\green.png
-INPUT .\green.png
-INPUT .\green.png
-INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\tex-gyre\q-ts1.enc
-INPUT .\chap-fibonacci.tex
-INPUT .\chap-fibonacci.tex
-INPUT .\chap-fibonacci.tex
-INPUT .\chap-fibonacci.tex
-INPUT chap-fibonacci.tex
-INPUT .\314px-Liber-abbaci-magliab-f124r.jpg
-INPUT .\314px-Liber-abbaci-magliab-f124r.jpg
-INPUT .\314px-Liber-abbaci-magliab-f124r.jpg
-INPUT .\314px-Liber-abbaci-magliab-f124r.jpg
-INPUT .\314px-Liber-abbaci-magliab-f124r.jpg
-INPUT .\314px-Liber-abbaci-magliab-f124r.jpg
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
@@ -370,6 +357,10 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\tex-gyre\ts1-qtmr.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\public\newtx\ntxmi.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\NewTXMI.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
@@ -378,6 +369,7 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\tex-gyre\q-ts1.enc
 INPUT .\FibonacciChamomile.png
 INPUT .\FibonacciChamomile.png
 INPUT .\FibonacciChamomile.png
@@ -406,6 +398,8 @@ INPUT .\SimilarGoldenRectangles.png
 INPUT .\thesis-english.bbl
 INPUT .\thesis-english.bbl
 INPUT thesis-english.bbl
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\newtx\ntxexx.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\txexs.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\public\newtx\ntxmia.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\txmiaSTbb.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-t1.tfm
